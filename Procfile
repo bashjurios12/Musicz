@@ -1,1 +1,1 @@
-worker: java -jar bot.jar -nogui
+heroku ps:scale web=1
