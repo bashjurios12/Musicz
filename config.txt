@@ -1,4 +1,4 @@
-﻿token=NjQwMzE5Mjc3NTI5OTU2MzUz.Xb4IfQ.BmtvY80b5QbwaeLiDiVlJl61d3U
+﻿token=bot-token-removed
 owner=624277858134786098
 prefix= 1
 game= !1help
